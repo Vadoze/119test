@@ -1,0 +1,109 @@
+{"Flats":
+[
+	{
+		"Name": "102",
+		"Surface": 60,
+		"Price": 250,
+		"BedroomsCount": 3,
+		"BathroomsCount": 2,
+		"Orientation":
+		{
+			"N": true,
+			"E": true,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Reserved"
+	},
+	{
+		"Name": "103",
+		"Surface": 50,
+		"Price": 125,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"Orientation":
+		{
+			"N": false,
+			"E": false,
+			"S": false,
+			"W": true
+		},
+		"Availability": "Available"
+	},
+	{
+		"Name": "104",
+		"Surface": 50,
+		"Price": 250,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"Orientation":
+		{
+			"N": false,
+			"E": true,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Available"
+	},
+	{
+		"Name": "201",
+		"Surface": 60,
+		"Price": 100,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"Orientation":
+		{
+			"N": false,
+			"E": false,
+			"S": false,
+			"W": true
+		},
+		"Availability": "Available"
+	},
+	{
+		"Name": "202",
+		"Surface": 55,
+		"Price": 250,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"Orientation":
+		{
+			"N": false,
+			"E": true,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Available"
+	},
+	{
+		"Name": "203",
+		"Surface": 50,
+		"Price": 250,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"Orientation":
+		{
+			"N": false,
+			"E": true,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Available"
+	},
+	{
+		"Name": "301",
+		"Surface": 110,
+		"Price": 250,
+		"BedroomsCount": 2,
+		"BathroomsCount": 1,
+		"Orientation":
+		{
+			"N": false,
+			"E": true,
+			"S": true,
+			"W": false
+		},
+		"Availability": "Sold"
+	}
+]
+}
