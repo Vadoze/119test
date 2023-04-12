@@ -1,1 +1,15 @@
-1
+{"Flats":
+[
+	{
+		"Name": "102",
+		"Surface": 53,
+		"BathroomsCount": 2
+  },
+	{
+		"Name": "104",
+		"Surface": 44,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1
+	}	
+]
+}
