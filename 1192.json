@@ -1,4 +1,4 @@
-["Flats":
+{"Flats":[
     {
         "Name": "NewRow3",
         "ID": 0,
@@ -11,4 +11,4 @@
         "Surface": 2,
         "BathroomsCount": 3
     }
-]
+]}
