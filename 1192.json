@@ -2,12 +2,14 @@
 [
 	{
 		"ID": "102",
+		"Name": "001",
 		"Surface": 53,
 		"BathroomsCount": 2
   },
 	{
 		"ID": "104",
 		"Surface": 44,
+		"Name": "002",
 		"BathroomsCount": 1
 	}	
 ]
