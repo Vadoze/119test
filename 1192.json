@@ -1,14 +1,8 @@
-{"Flats":
 [
-	{
-		"ID": 102,
-		"Surface": 53,
-		"BathroomsCount": 2
-  },
-	{
-		"ID": 104,
-		"Surface": 44,
-		"BathroomsCount": 1
-	}	
+    {
+        "Name": "NewRow3",
+        "ID": 0,
+        "Surface": 0,
+        "BathroomsCount": 0
+    }
 ]
-}
