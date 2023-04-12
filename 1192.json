@@ -1,13 +1,11 @@
 {"Flats":
 [
 	{
-		"Name": "001",
 		"ID": 102,
 		"Surface": 53,
 		"BathroomsCount": 2
   },
 	{
-		"Name": "002",
 		"ID": 104,
 		"Surface": 44,
 		"BathroomsCount": 1
