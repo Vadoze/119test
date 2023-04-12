@@ -4,5 +4,11 @@
         "ID": 0,
         "Surface": 0,
         "BathroomsCount": 0
+    },
+    {
+        "Name": "NewRow2",
+        "ID": 1,
+        "Surface": 2,
+        "BathroomsCount": 3
     }
 ]
