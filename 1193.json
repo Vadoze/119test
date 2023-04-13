@@ -1,1 +1,51 @@
-[{"ID":"34696","PARENT":"109","DOOR":"1","NUM":"183","FLOOR":"-1","TYPE":"4","STATUS":"1","AREA":"13.6","LIVING_AREA":"0","CITCHEN_AREA":"0","PRICE":"91911.9","ROOM":"92","LAYOUT_ID":null,"DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":false},{"ID":"34697","PARENT":"109","DOOR":"1","NUM":"184","FLOOR":"-1","TYPE":"4","STATUS":"1","AREA":"13.6","LIVING_AREA":"0","CITCHEN_AREA":"0","PRICE":"91911.9","ROOM":"92","LAYOUT_ID":null,"DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":false},{"ID":"34698","PARENT":"109","DOOR":"1","NUM":"185","FLOOR":"-1","TYPE":"4","STATUS":"1","AREA":"13.6","LIVING_AREA":"0","CITCHEN_AREA":"0","PRICE":"91911.9","ROOM":"92","LAYOUT_ID":null,"DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":false},{"ID":"34699","PARENT":"109","DOOR":"1","NUM":"186","FLOOR":"-1","TYPE":"4","STATUS":"1","AREA":"13.6","LIVING_AREA":"0","CITCHEN_AREA":"0","PRICE":"91911.9","ROOM":"92","LAYOUT_ID":null,"DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":false},{"ID":"50511","PARENT":"147","DOOR":"1","NUM":"1 ,1\/1 ,1\/2 ,1\/3 ,1\/4","FLOOR":"-1","TYPE":"2","STATUS":"1","AREA":"850.3","LIVING_AREA":"0","CITCHEN_AREA":"0","PRICE":"0","ROOM":"93","LAYOUT_ID":"7291","DUPLEX":"N","STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/c33\/6hihh1348tmfs3ig8o3gw49gl8ux2nby\/k4_0_etazh.png"},{"ID":"50512","PARENT":"147","DOOR":"1","NUM":"2 ,2\/1 ,2\/2 ,2\/3 ,2\/4","FLOOR":"1","TYPE":"2","STATUS":"1","AREA":"878.6","LIVING_AREA":"0","CITCHEN_AREA":"0","PRICE":"0","ROOM":"93","LAYOUT_ID":"7290","DUPLEX":"N","STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/7e8\/9vu7ap5t1e93rkxssp1k4g5id33k6pqd\/k4_1_etazh.png"},{"ID":"50513","PARENT":"147","DOOR":"1","NUM":"3 ,3\/1 ,3\/2 ,3\/3 ,3\/4","FLOOR":"2","TYPE":"2","STATUS":"1","AREA":"878.6","LIVING_AREA":"0","CITCHEN_AREA":"0","PRICE":"0","ROOM":"93","LAYOUT_ID":"7289","DUPLEX":"N","STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/0d5\/acjnk8a22ekrmsn5m3p8354i48af369n\/k4_2_etazh.png"},{"ID":"55936","PARENT":"170","DOOR":"1","NUM":"1","FLOOR":"2","TYPE":"1","STATUS":"2","AREA":"48.1","LIVING_AREA":"11.9","CITCHEN_AREA":"23.3","PRICE":"195000","ROOM":"1","LAYOUT_ID":"10590","DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/320\/wf8c1agycywn8arsgcyysz2kx8m64iak\/_1_3_liter_1_podezd_2_etazh_48_1.png"},{"ID":"55937","PARENT":"170","DOOR":"1","NUM":"2","FLOOR":"2","TYPE":"1","STATUS":"2","AREA":"71.1","LIVING_AREA":"26.4","CITCHEN_AREA":"18.8","PRICE":"180000","ROOM":"2","LAYOUT_ID":"10595","DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/0f2\/x4hs23cbf64n925xpgntvneqg5j4g26j\/_2_3_liter_1_podezd_2_etazh_71_1.png"},{"ID":"55938","PARENT":"170","DOOR":"1","NUM":"3","FLOOR":"2","TYPE":"1","STATUS":"2","AREA":"50.3","LIVING_AREA":"12.1","CITCHEN_AREA":"19","PRICE":"195000","ROOM":"1","LAYOUT_ID":"10593","DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/bcf\/8vn8nw4vqprm6prgx6dnkk1n5fax4t5t\/_3_3_liter_1_podezd_2_etazh_50_3.png"},{"ID":"55939","PARENT":"170","DOOR":"1","NUM":"4","FLOOR":"2","TYPE":"1","STATUS":"5","AREA":"34","LIVING_AREA":"11.7","CITCHEN_AREA":"10.9","PRICE":"196000","ROOM":"1","LAYOUT_ID":"10594","DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/f3b\/n1j0a3ehekki1ecy7c23xn1kklc33y7x\/_4_3_liter_1_podezd_2_etazh_34.png"},{"ID":"55940","PARENT":"170","DOOR":"1","NUM":"5","FLOOR":"2","TYPE":"1","STATUS":"2","AREA":"36.9","LIVING_AREA":"15.7","CITCHEN_AREA":"10.9","PRICE":"196000","ROOM":"1","LAYOUT_ID":"10592","DUPLEX":null,"STAINED_GLASS":"N","VIEW":"0","LAYOUT":"https:\/\/bitrix.1dogma.net\/upload\/itiso.shahmatki\/75d\/olrsr6cl0y4kzca7dbrpsqyg5ih8mvmc\/_5_3_liter_1_podezd_2_etazh_36_9.png"}]
+[{
+	"Name": "3220412",
+	"Building": "3",
+	"Entrance": "2",
+	"Floor": "20",
+	"Number": "412",
+	"Availability": "Available",
+	"Room": 1,
+	"Square": "41.7",
+	"Price": 8590200
+}, {
+	"Name": "3220413",
+	"Building": "3",
+	"Entrance": "2",
+	"Floor": "20",
+	"Number": "413",
+	"Availability": "Available",
+	"Room": 3,
+	"Square": "95.4",
+	"Price": 17362800
+}, {
+	"Name": "3220414",
+	"Building": "3",
+	"Entrance": "2",
+	"Floor": "20",
+	"Number": "414",
+	"Availability": "Available",
+	"Room": 2,
+	"Square": "55.8",
+	"Price": 10602000
+}, {
+	"Name": "3220415",
+	"Building": "3",
+	"Entrance": "2",
+	"Floor": "20",
+	"Number": "415",
+	"Availability": "Available",
+	"Room": 1,
+	"Square": "32.1",
+	"Price": 7383000
+}, {
+	"Name": "3220416",
+	"Building": "3",
+	"Entrance": "2",
+	"Floor": "20",
+	"Number": "416",
+	"Availability": "Available",
+	"Room": 1,
+	"Square": "36.3",
+	"Price": 7477800
+}]
