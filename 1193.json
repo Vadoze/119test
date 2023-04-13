@@ -10,9 +10,7 @@
 	"AREA": "13.6",
 	"PRICE": "91911.9",
 	"ROOM": "92",
-	"DUPLEX": null,
-	"VIEW": "0",
-	"LAYOUT": false
+	"VIEW": "0"
 }, {
 	"ID": "34696",
 	"PARENT": "109",
@@ -24,8 +22,6 @@
 	"AREA": "13.6",
 	"PRICE": "91911.9",
 	"ROOM": "92",
-	"DUPLEX": null,
-	"VIEW": "0",
-	"LAYOUT": false
+	"VIEW": "0"
 }
 ]
