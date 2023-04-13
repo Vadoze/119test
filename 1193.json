@@ -8,13 +8,10 @@
 	"TYPE": "4",
 	"STATUS": "1",
 	"AREA": "13.6",
-	"LIVING_AREA": "0",
-	"CITCHEN_AREA": "0",
 	"PRICE": "91911.9",
 	"ROOM": "92",
 	"LAYOUT_ID": null,
 	"DUPLEX": null,
-	"STAINED_GLASS": "N",
 	"VIEW": "0",
 	"LAYOUT": false
 }, {
@@ -26,13 +23,10 @@
 	"TYPE": "4",
 	"STATUS": "1",
 	"AREA": "13.6",
-	"LIVING_AREA": "0",
-	"CITCHEN_AREA": "0",
 	"PRICE": "91911.9",
 	"ROOM": "92",
 	"LAYOUT_ID": null,
 	"DUPLEX": null,
-	"STAINED_GLASS": "N",
 	"VIEW": "0",
 	"LAYOUT": false
 }
