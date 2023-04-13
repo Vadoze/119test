@@ -1,13 +1,13 @@
 [{
-	"Name": "3220412",
+	"Name": "\u041a11-1002",
 	"Building": "3",
 	"Entrance": "2",
 	"Floor": "20",
 	"Number": "412",
 	"Availability": "Available",
-	"Room": 1,
+	"Room": 0,
 	"Square": "41.7",
-	"Price": 8590200
+	"Price": 8590200.5
 }, {
 	"Name": "3220413",
 	"Building": "3",
